@@ -1,25 +1,19 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title: MSeven Mobile Apps in Seven Weeks
+  description: Native Apps, Multiple Platforms Answer the question “Can we build this for ALL the devices?” with a resounding YES. This book will help you get there with a real-world introduction to seven platforms, whether you’re new to mobile or an experienced developer needing to expand your options. Plus, you’ll find out which cross-platform solution makes the most sense for your needs.
+  image_url: 7apps.jpg
+  price: 26.00
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title: Ruby Performance Optimization
+  description: Why Ruby Is Slow, and How to Fix It You don’t have to accept slow Ruby or Rails performance. In this comprehensive guide to Ruby optimization, you’ll learn how to write faster Ruby code—but that’s just the beginning. See exactly what makes Ruby and Rails code slow, and how to fix it. Alex Dymo will guide you through perils of memory and CPU optimization, profiling, measuring, performance testing, garbage collection, and tuning. You’ll find that all those “hard” things aren’t so difficult after all, and your code will run orders of magnitude faster.
+  image_url: adrpo.jpg
+  price: 46.00
 
 ruby:
-title:
-Programming Ruby 1.9
-description:
-Ruby is the fastest growing and most exciting dynamic
-language out there. If you need to get working programs
-delivered fast, you should add Ruby to your toolbox.
-price:
-49.50
-image_url:
-ruby.png
+  title:  Programming Ruby 1.9
+  description:  Ruby is the fastest growing and most exciting dynamic  language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.
+  price:  49.50
+  image_url:  ruby.png
